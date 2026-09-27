@@ -1,0 +1,43 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+jupyter_running.txt
+*/.ipynb_checkpoints/*
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 包管理
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 日志、临时文件
+*.log
+*.tmp
+*.temp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VSCode 本地配置（可选，不想上传编辑器配置就保留）
+.vscode/
+*.code-workspace
+
+# 其他
+*.zip
+*.rar
+*.7z
